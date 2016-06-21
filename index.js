@@ -9,7 +9,9 @@
 *
 * It should be a String.
 **/
-
+var firstName = "Noah";
+var lastName = "Nappi";
+var birthPlace = "Honolulu";
 
 
 /**
@@ -21,7 +23,9 @@
 *
 * Their values should be a Number
 **/
-
+var favoriteNumber = 22;
+var currentYear = 2016;
+var thatOnePrinceSong = 1;
 
 
 /**
@@ -33,7 +37,10 @@
 *
 * Their values should be a Boolean
 **/
-
+var isDaytime = true;
+var isLeftHanded = false;
+var inHawaii = true;
+var isHappyCoding = true;
 
 
 /**
@@ -44,7 +51,8 @@
 *
 * Their values should be a Null value
 **/
-
+var enrolledAtDevLeague = null;
+var completedFridayPrep = null;
 
 
 /**
@@ -55,7 +63,7 @@
 * This Array contains the names of all the states
 * which can be found along the west coast of The United States.
 **/
-
+var westCoast = ["California", "Washington", "Oregon"]
 
 
 /**
@@ -66,7 +74,7 @@
 * This Array contains numbers that are considered 'even values'.
 * Have at least ten even values in this array.
 **/
-
+var evenNumbers = [2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
 
 
 /**
@@ -79,7 +87,7 @@
 *
 * Extend this behavior to include subtraction, multiplication and division.
 */
-
+var sumOfNumbers = 1+2+3;
 
 
 
@@ -100,7 +108,11 @@
 *   See if you can come up with a few examples of double comparison
 *   operator(==) vs triple comparison operator(===).
 */
-
+var isEqual = true;
+var Tacocat = "Tacocat";
+var tacocat = "tacocat";
+[if Tacocat == tacocat]
+	console.log(isEqual)
 
 
 /**
@@ -132,7 +144,6 @@
 *
 * Store the return value to a variable named `jumpResult` and use console.log to inspect the value which was returned by your function
 **/
-
 
 
 /**
